@@ -253,8 +253,15 @@ def embed(arch, per_topic=40, cap=240):
     return dict(as_of=arch['as_of'], since=arch['since'], total=arch['total'], per_topic=arch['per_topic'], new_24h=arch['new_24h'], labels=LABEL,
                 items=[dict(t=i['t'], s=i['s'], u=i['u'], d=i['d'][:16], k=i['k'], n=i.get('n', 1)) for i in pick[:cap]])
 
+def index(arch):
+    """Full searchable archive for the TSG Live Library (all items, compact rows: t, s, u, d, k, n)."""
+    return dict(as_of=arch['as_of'], since=arch['since'], total=arch['total'], per_topic=arch['per_topic'], new_24h=arch['new_24h'], labels=LABEL,
+                f=['t', 's', 'u', 'd', 'k', 'n'], items=[[i['t'], i['s'], i['u'], i['d'][:16], '|'.join(i['k']), i.get('n', 1)] for i in arch['items']])
+
 if __name__ == '__main__':
     ap = argparse.ArgumentParser(); ap.add_argument('--backfill', action='store_true'); a = ap.parse_args()
     arch = run(a.backfill)
-    json.dump(embed(arch), open(os.environ.get('TSG_NEWS_OUT') or os.path.join(HERE, 'out', 'tsg-news.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
-    print('wrote out/tsg-news.json')
+    out = os.environ.get('TSG_NEWS_OUT') or os.path.join(HERE, 'out', 'tsg-news.json')
+    json.dump(embed(arch), open(out, 'w'), ensure_ascii=False, separators=(',', ':'))
+    json.dump(index(arch), open(os.path.join(os.path.dirname(out) or '.', 'tsg-news-index.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
+    print('wrote', out, '+ tsg-news-index.json')
