@@ -1,0 +1,8 @@
+<!doctype html><meta charset="utf-8"><title>TSG Live agent – data feed</title>
+<body style="font:15px system-ui;background:#0b1220;color:#e6f1ff;padding:40px">
+<h1>TSG Live – daily agent data feed</h1>
+<p>Used by <a style="color:#22d3ee" href="https://tsgag.com">tsgag.com</a> (Live Map, Library, News).</p>
+<ul><li><a style="color:#22d3ee" href="tsg-live-data.json">tsg-live-data.json</a> – use cases</li>
+<li><a style="color:#22d3ee" href="tsg-news.json">tsg-news.json</a> – news</li>
+<li>Last agent run: <span id="r">…</span></li></ul>
+<script>fetch('tsg-live-data.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{document.getElementById('r').textContent=(d.generated_utc||d.as_of)+' · '+d.cases.length+' cases'})</script>
