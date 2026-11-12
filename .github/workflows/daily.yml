@@ -1,0 +1,32 @@
+name: TSG daily agent
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 03:30 UTC = 04:30 CET / 05:30 CEST; a second run at 04:30 UTC covers winter time
+    - cron: '30 4 * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: { group: tsg-daily, cancel-in-progress: false }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: Use-case agent (new real-world deployments -> map / library / table)
+        env: { TSG_CASES_DB: data/tsg_use_cases.json, TSG_OUT: docs }
+        run: |
+          if grep -q "\"as_of\": \"$(date -u +%F)\"" data/tsg_use_cases.json; then echo "already ran today"; else python agent/daily_refresh.py --rules --no-social --max-new 6; fi
+      - name: News agent (IoT, Blockchain, RWA, AI, Agentic AI, University journals)
+        env: { TSG_NEWS_ARCHIVE: data/news_archive.json, TSG_NEWS_OUT: docs/tsg-news.json }
+        run: python agent/news_agent.py || echo "news agent failed - keeping yesterday's file"
+      - name: Publish
+        run: |
+          date -u '+%Y-%m-%d %H:%M UTC' > docs/last_run.txt
+          touch docs/.nojekyll
+          git config user.name "tsg-daily-agent"; git config user.email "tsg-daily-agent@users.noreply.github.com"
+          git add -A docs data
+          git commit -m "daily agent run $(date -u +%F)" || echo "nothing new"
+          git push
