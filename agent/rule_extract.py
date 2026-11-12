@@ -62,6 +62,7 @@ ORG = {
  'ANZ': (-37.8136, 144.9631, 'Melbourne', 'AU'), 'Commonwealth Bank': (-33.8688, 151.2093, 'Sydney', 'AU'), 'Westpac': (-33.8688, 151.2093, 'Sydney', 'AU'),
  'RBC': (43.6532, -79.3832, 'Toronto', 'CA'), 'TD': (43.6532, -79.3832, 'Toronto', 'CA'), 'Binance': (25.2048, 55.2708, 'Dubai', 'AE'), 'Tether': (8.9824, -79.5199, 'San Salvador', 'SV'),
 }
+CAPITAL = {'KR': 'Seoul', 'IL': 'Tel Aviv', 'JP': 'Tokyo', 'CH': 'Zurich', 'DE': 'Frankfurt', 'FR': 'Paris', 'GB': 'London', 'US': 'New York', 'CN': 'Shanghai', 'IN': 'Mumbai', 'SG': 'Singapore', 'AE': 'Dubai', 'SA': 'Riyadh', 'HK': 'Hong Kong', 'BH': 'Manama', 'TR': 'Istanbul', 'NG': 'Lagos', 'KE': 'Nairobi', 'BR': 'Sao Paulo', 'AU': 'Sydney', 'CA': 'Toronto'}
 PLACE = {  # city / country names that may appear in a headline
  'New York': (40.7128, -74.006, 'US'), 'San Francisco': (37.7749, -122.4194, 'US'), 'Chicago': (41.8781, -87.6298, 'US'), 'Texas': (30.2672, -97.7431, 'US'),
  'London': (51.5074, -0.1278, 'GB'), 'UK': (51.5074, -0.1278, 'GB'), 'Britain': (51.5074, -0.1278, 'GB'), 'Zurich': (47.3769, 8.5417, 'CH'), 'Zug': (47.1662, 8.5155, 'CH'),
@@ -104,7 +105,9 @@ def extract(c):
     k = _find(ORG, org); p = None if k else _find(PLACE, t)
     if not k and not p: k = _find(ORG, t)
     if k: lat, lon, city, cc = ORG[k]
-    elif p: lat, lon, cc = PLACE[p]; city = p if p in CITIES else ''
+    elif p:
+        lat, lon, cc = PLACE[p]
+        city = p if p in CITIES else next((q for q in CITIES if q in PLACE and PLACE[q][:2] == (lat, lon)), CAPITAL.get(cc, ''))
     else: return None
     status = next((s for rx, s in STATUS if re.search(rx, t, re.I)), 'Announced')
     sector = next((s for rx, s in SECTOR if re.search(rx, t, re.I)), 'Cross-industry')
