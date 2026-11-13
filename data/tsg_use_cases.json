@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-12",
+ "as_of": "2026-11-13",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -1789,6 +1789,144 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-12"
+  },
+  {
+   "id": 76,
+   "title": "Tokenized Funds – launch 24-Hour Trading",
+   "org": "Tokenized Funds",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Hong Kong",
+   "country": "HK",
+   "lat": 22.3193,
+   "lon": 114.1694,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch 24-Hour Trading – via BigGo Finance",
+   "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12eFVINmZob1hWYmVjZlNJUTZvdl9tVzA2eURxZU9xX1FDU0pLTzZGc3M2bUozbjhLb3VCQXJlU0Z1aGZqR1M5VlpFcTZZbXNDQTRNdjhhZHlZZzFrOFlLeHJEU3p2MUM3RlE0Q1R1Z1lkeG9sYkE?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-13"
+  },
+  {
+   "id": 77,
+   "title": "Visa – expands Stablecoin Payments With Anchorage Digital, Adds Western Union’s USDPT to Settlement Network",
+   "org": "Visa",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.5585,
+   "lon": -122.2711,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expands Stablecoin Payments With Anchorage Digital, Adds Western Union’s USDPT to Settlement Network – via FinanceFeeds",
+   "source": "https://financefeeds.com/visa-expands-stablecoin-payments-with-anchorage-digital-adds-western-unions-usdpt-to-settlement-network/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-13"
+  },
+  {
+   "id": 78,
+   "title": "Global stablecoin use grows; Russia, Nigeria – roll out regulation",
+   "org": "Global stablecoin use grows; Russia / Nigeria",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Lagos",
+   "country": "NG",
+   "lat": 6.5244,
+   "lon": 3.3792,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Roll out regulation – via CoinGeek",
+   "source": "https://coingeek.com/global-stablecoin-use-grows-russia-nigeria-roll-out-regulation/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-13"
+  },
+  {
+   "id": 79,
+   "title": "Standard Bank – taps JPMorgan Blockchain",
+   "org": "Standard Bank",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Announced",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Taps JPMorgan Blockchain – via The Rio Times",
+   "source": "https://www.riotimesonline.com/standard-bank-jpmorgan-kinexys-blockchain-payments/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-13"
+  },
+  {
+   "id": 80,
+   "title": "UK bank Griffin raises $20 million – expand into stablecoin payments",
+   "org": "UK bank Griffin raises $20 million",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Announced",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expand into stablecoin payments – via CoinDesk",
+   "source": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-13"
+  },
+  {
+   "id": 81,
+   "title": "DuPont – partners with Microsoft and NobleAI on Agentic AI for R&D",
+   "org": "DuPont",
+   "inst": null,
+   "tech": [
+    "Agentic"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "Redmond",
+   "country": "US",
+   "lat": 47.674,
+   "lon": -122.1215,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Partners with Microsoft and NobleAI on Agentic AI for R&D – via Unite.AI",
+   "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1hHS0N3XzlVdkZnamtvdkFvb013NHVoc2xZbklXdU52ZzFRcFhRSWFKcmREVjVIM1BrajZFS0VFcjhnWVRiNGFNcU5rc0pwQ29td3JkUFcwZE5iQVFPNnpWcWNWbUMweGdNZUtzTTlwZjJ0c1JySEdLS3BBa1NMTXdxbjBVQ3RZN0hPTWh5Umc5Q081?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-13"
   }
  ],
  "journals": [
