@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-13",
+ "as_of": "2026-11-14",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -1927,6 +1927,144 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-13"
+  },
+  {
+   "id": 82,
+   "title": "Oppenheimer relocates HQ, Deloitte – launches enterprise AI venture",
+   "org": "Oppenheimer relocates HQ / Deloitte",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches enterprise AI venture – via Alternatives Watch",
+   "source": "https://www.alternativeswatch.com/2026/11/13/service-provider-news-oppenheimer-relocates-hq-deloitte-enterprise-ai-venture/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-14"
+  },
+  {
+   "id": 83,
+   "title": "DIFC Courts – unveil Blockchain Dispute Resolution Oracle Framework",
+   "org": "DIFC Courts",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "Austin",
+   "country": "US",
+   "lat": 30.2672,
+   "lon": -97.7431,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Unveil Blockchain Dispute Resolution Oracle Framework – via CoinTrust",
+   "source": "https://www.cointrust.com/market-news/difc-courts-unveil-blockchain-dispute-resolution-oracle-framework",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-14"
+  },
+  {
+   "id": 84,
+   "title": "BoE, Singapore and Thailand – complete Blockchain FX Settlement Trials",
+   "org": "BoE / Singapore and Thailand",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Cross-industry",
+   "status": "Pilot",
+   "city": "Singapore",
+   "country": "SG",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Complete Blockchain FX Settlement Trials – via The Crypto Times",
+   "source": "https://www.cryptotimes.io/2026/11/13/boe-singapore-and-thailand-complete-blockchain-fx-settlement-trials/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-14"
+  },
+  {
+   "id": 85,
+   "title": "IBM and Microsoft – introduce Imagine Enterprise for AI agent deployment",
+   "org": "IBM and Microsoft",
+   "inst": null,
+   "tech": [
+    "Agentic"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "Redmond",
+   "country": "US",
+   "lat": 47.674,
+   "lon": -122.1215,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Introduce Imagine Enterprise for AI agent deployment – via Portal ERP",
+   "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNazUwTnk0OGxoZmUzMkkzQkRrNDc0Nl9aMHVMNnZhOXZ5amNuX1JfTHpZWFZPVTBRd20yWEY2NjJkNXVsUTVUamdBUkpuLXNFaEhnR3dwVUYwMkhoZUdjcUxfOXJCSENyTnkwLVUzUDdjWXZKRmJIbEVKdzZlcDlIZXF3VVRNVllBQmJlUE1zdDBzN21vMlFwSDByUnNVQQ?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-14"
+  },
+  {
+   "id": 86,
+   "title": "IBM and Microsoft – launch Imagine Enterprise With More Than 6,000 Prebuilt AI Agents and Assets",
+   "org": "IBM and Microsoft",
+   "inst": null,
+   "tech": [
+    "Agentic"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "Redmond",
+   "country": "US",
+   "lat": 47.674,
+   "lon": -122.1215,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch Imagine Enterprise With More Than 6,000 Prebuilt AI Agents and Assets – via StorageReview.com",
+   "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZF9DSWNzS2l2LUhxcEF6bzl1VXVXem1NMHJlbmR5MkFTVjNyRHpJaVhKcHExSlAySUZ4bWJKTFZ3TTIzaDZ6R2p5UTBKVHRyZTF3bUVOblFSaVg1MlN4dUdiLWg1bjRibzRQRmpYOW1rVXlSVnBLbWlaeFVnM0ZEY1BOQ09BLWVvY09IbVln0gGTAUFVX3lxTFBsOENfRXNQeW5BcVVkLWxGelA2eVVfOG9ZTGhmaVNJR0M5OGVlV3JlZjhydmN4S09ERy1QRzEwS2Z4dGdKZ0xJb19iTVYyVnNwdkh5YnN1VTQ4ejdxb2NSdkxIaVdZX2pGRl9FM3BXSzNZYVp6eEl6TGMxV181UXdKdmYwZGZfbk1VVjRmeHNwbGg3SQ?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-14"
+  },
+  {
+   "id": 87,
+   "title": "OpenAI – launches ChatGPT Wallet, empowering AI to make secure digital payments for users",
+   "org": "OpenAI",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches ChatGPT Wallet, empowering AI to make secure digital payments for users – via ET CIO",
+   "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQR01ta2lpVS1Bc1NUTURFQXBPSVV4UTBUbW9Nck5iZ2w0SGp6RmdBaXNGQXNIM1JxaTRaWU1HUWlwcUw5UmduSlJ1MThiSWFtenByLTBUdHdkeTJ6Y0VCUlRTSmhMOUNTRDZhLVlSd2pwcFE1WTl6TTRCc0FMSDlNRzJmOFBxaDlxaE1KZm1zampsX3pPdEZvTm14QzRmRG53eTdDNlp6Q0QxNGc4aDFGUzNmeTFqSy1LTC1hdW1OYWFuT2hjQ1FxLWJDdjZlZWRGelljUTVPMllCQmFHUGRQYWlQLVY2SlUzNUZKNVRyRTlOREl1N01BdEpvckRLZDDSAf8BQVVfeXFMUEdNbWtpaVUtQXNTVE1ERUFwT0lVeFEwVG1vTXJOYmdsNEhqekZnQWlzRkFzSDNScWk0WllNR1FpcHFMOVJnbkpSdTE4YklhbXpwci0wVHR3ZHkyemNFQlJUU0poTDlDU0Q2YS1ZUndqcHBRNVk5ek00QnNBTEg5TUcyZjhQcWg5cWhNSmZtc2pqbF96T3RGb05teEM0ZkRud3k3QzZaekNEMTRnOGgxRlMzZnkxakstS0wtYXVtTmFhbk9oY0NRcS1iQ3Y2ZWVkRnpZY1E1TzJZQkJhR1BkUGFpUC1WNkpVMzVGSjVUckU5TkRJdTdNQXRKb3JES2Qw?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-14"
   }
  ],
  "journals": [
