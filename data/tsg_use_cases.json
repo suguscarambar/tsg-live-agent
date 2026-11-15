@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-14",
+ "as_of": "2026-11-15",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -2065,6 +2065,29 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-14"
+  },
+  {
+   "id": 88,
+   "title": "Bitwise – launches Self-Custody Stock Portfolios Using Coinbase Tokenized Shares",
+   "org": "Bitwise",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches Self-Custody Stock Portfolios Using Coinbase Tokenized Shares – via CoinMarketCap",
+   "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2t2Zzd5cldHek5DNVA1Q1Ixa2FkZzJWVk5vTGlTd19kZi02Mnl3REJCSjhfRVIxcTVZbDJKNS1DT2htVzhRQVNKMDZITU42M3NJd0ctSjBXVTBiUXVqTXhaWlBOVG5nUm1acVl0QlJsUWpCX3JlT1RwdkF1TmxJdm5pbV9BYkNwTVhSSENiemtKZEg0aVR0TzQ3UFBva29HdWROYzl4WFd2WlJTOHZFbjcwdUZ3a0xQN3VhZA?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-15"
   }
  ],
  "journals": [
