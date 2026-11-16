@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-15",
+ "as_of": "2026-11-16",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -2088,6 +2088,148 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-15"
+  },
+  {
+   "id": 89,
+   "title": "JPMorgan, DBS – launch 24/7 tokenized dollar transfers between US and Singapore",
+   "org": "JPMorgan / DBS",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch 24/7 tokenized dollar transfers between US and Singapore – via Crypto News",
+   "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwYjZxUTl0LUdJTXJ4WVlQNVRLSzgwOHpucGxWTGc0R3ZSbU5QYjh5dV94OGtrSXY4dUtyMXlfMGFuYkJhQW9hMVJpbF9WZ3JQeVQxRU4yVTlzTm1KeTQzT1VYSzNhUkZwalVKdWdVaWFiTEUt?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-16"
+  },
+  {
+   "id": 90,
+   "title": "DTCC – expands Its Tokenized Securities Plans to Solana as Remittix RTX Heads for Its November 24 Launch",
+   "org": "DTCC",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expands Its Tokenized Securities Plans to Solana as Remittix RTX Heads for Its November 24 Launch – via TechBullion",
+   "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS0Zfd2JDdkZXcGZvV2VoYzhjdE9ib1BUZVVDVkhwa1FFRDBVblc4YkgteFd6X0RFRzZWTnVNbUxtaTNDc2Nia25EaWI3S1VScWxyeDNxbWNhYVFNbEpNbE53WHBSQzJXOGpJUVZaWE1kMEtKR1p1akh2ZTlXZ29TenhRZE5TX0VsdFdKcG1Ya0NzdmZJRFd0MkxjS3E4aS1WcFhNTUlORXpvU1R6V3A2U2ljanUwR0xPZGo5cS1BRU1mNFpmUG5SLWN3RnhKbjN4TXc0bHV3?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-16"
+  },
+  {
+   "id": 91,
+   "title": "DBS and JPMorgan's Kinexys – launch Interbank Tokenized Deposit Interoperability Solution",
+   "org": "DBS and JPMorgan's Kinexys",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch Interbank Tokenized Deposit Interoperability Solution – via panews.io",
+   "source": "https://panews.io/articles/01a1e2e4-ee21-7081-ba61-1ba5a93cd77d",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-16"
+  },
+  {
+   "id": 92,
+   "title": "DBS and Kinexys – launch 24/7 transfers for USD tokenized deposits",
+   "org": "DBS and Kinexys",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch 24/7 transfers for USD tokenized deposits – via Crypto Briefing",
+   "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EdlVVN3k4cW9mOHl1TUc0QXY0N1pxX3Y1TUJTWFpCWVY2dTdMRUszVkpUR3hXbzVNZ1NBNnBuRGEwM2ZZVmVaRWtUNjdxdjJDMHJ0VmFwUzVkOG1kd28yXzFpeGE5TVF0aVpOalgzRC1BdDNwUnc?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-16"
+  },
+  {
+   "id": 93,
+   "title": "Monument Bank – partners with Midnight to Launch UK's First Tokenized Deposits",
+   "org": "Monument Bank",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Partners with Midnight to Launch UK's First Tokenized Deposits – via FF News",
+   "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWhCb1VhVTNzUEwzZ21kVEp6SEJlS3Nyc1lTRlZ5aW1XTlVmMm0tdlZISkxHc1ZUYlctaGg0SEJJd3IwUHZRMGRNWGFjZjlDbk5PTV9WVTNDNTBiaTRYaDAxdmZpZ0pEcW1OTGRsVHJ3YzA2ZVFPV0ptOE80bFdHdjlTVlF4bWNYc2lnSHZQQkhIUC15VWlCQzhUc2pEQlE?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-16"
+  },
+  {
+   "id": 94,
+   "title": "DBS and J.P. Morgan – launch 24/7 Instant US Dollar Transfers on Blockchain",
+   "org": "DBS and J.P. Morgan",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch 24/7 Instant US Dollar Transfers on Blockchain – via FintechNewsSG",
+   "source": "https://fintechnews.sg/141245/payments/dbs-j-p-morgan-us-dollar-transfers/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-16"
   }
  ],
  "journals": [
