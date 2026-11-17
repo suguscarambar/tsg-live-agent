@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-16",
+ "as_of": "2026-11-17",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -2230,6 +2230,123 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-16"
+  },
+  {
+   "id": 95,
+   "title": "BlackRock, Brevan Howard Tokenized Funds – launch on Sei Blockchain",
+   "org": "BlackRock / Brevan Howard Tokenized Funds",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch on Sei Blockchain – via bloomingbit",
+   "source": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JLUp2TWQtcnRTS195ZTVJYzJBNTRQem5tTEpod3F2ZGtsWmF3VkVqaUlDUXR3STdaekJXYlZwNFJRQWRVYzFfREc1U0dXenZyTlRROA?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-17"
+  },
+  {
+   "id": 96,
+   "title": "HKMA Swift Tokenized Deposit – pilot Names Three Banks After November EnsembleTX Update",
+   "org": "HKMA Swift Tokenized Deposit",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "Hong Kong",
+   "country": "HK",
+   "lat": 22.3193,
+   "lon": 114.1694,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Pilot Names Three Banks After November EnsembleTX Update – via OneBullEx",
+   "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDBxNmVkdHlKMllUeVdSZXctbng5SE9FeWE5V1d1NEkxWDVCR3pjbDZZNWk5VFQyQ2RJcm5UY08xa0ZkUXp3aGFpV2Zpb1dVaU1BWmRIOGdBYmNLdFV6MWtYSWRpM2ZPR1h5czhjby1yQ1BPYW13dXBxYU1oaXJNNHJuQ3ZwYTBsS0VRUVduRHlhWi1wR1RLd19YWmNfeUMyc0c2YXJEXzZ0RzFVSHpGMHVNdU1KZ0E5SmZPYW9BZU1nQVE?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-17"
+  },
+  {
+   "id": 97,
+   "title": "MAS and Bundesbank – complete Landmark Cross-Border CBDC Settlement Test",
+   "org": "MAS and Bundesbank",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "Singapore",
+   "country": "SG",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Complete Landmark Cross-Border CBDC Settlement Test – via CryptoRank",
+   "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2lWQzZDZGpDdlZfeVNZc3lwTmx6WWcyeEZmRTBadXVmc2hGQnVPTmJRQkdQZlQwZ2s1QjZZZlZsMW5GOHdQRUVVSngtaWNiZDFfMmlCRENRZUhXckRBLUgwd19OSVpPaktqS01XYnRTTXY3QXlVckg3YWdfQklKd2lLRk5zWVlHa3BDc013SkY5Y05LVHkw?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-17"
+  },
+  {
+   "id": 98,
+   "title": "South Korea’s Toss – launch Ethereum, USDT, USDC wallet for 30M users",
+   "org": "South Korea’s Toss",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "Seoul",
+   "country": "KR",
+   "lat": 37.5665,
+   "lon": 126.978,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch Ethereum, USDT, USDC wallet for 30M users – via Crypto News",
+   "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0RHFLTkZSeVIwc2RJX2wtTmkya2ItV0l3ekN6dnkya1ZHR21QWFdnNHphcFhvT3BJQTdXU3FWeTRQVG5CeHdGVmhQZXBKXzY1b2RXSG9Fb0o1QWJCUGstS3llcml6akQtbjFYQzJuTW9pX3owc2o1MFVR?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-17"
+  },
+  {
+   "id": 99,
+   "title": "DBS and Kinexys by J.P. Morgan – launch 24/7 tokenised deposit transfers",
+   "org": "DBS and Kinexys by J.P. Morgan",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch 24/7 tokenised deposit transfers – via The Paypers",
+   "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVFSaERpdTUza2ZfbU0zWGNBVGFKMENEUXB2LS1KYkdCRC0ybWI4UUNJenFiaGRuMzdDRkZWRnJxbUY5emNrX2RJOXNjNjRqdWhpSXpDQlpGRDhkaXM0UnlqT2dBd2ZoaTNEX3UzNF9mWWZ1eDJBMEFwSXhPYUhYWWhGUWNaM29qdHJQTjhrbFdUQm9NX0E2TDA4emk2bjg1OThGZk9WMWxzRUVoVHVHelNobzlXT28?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-17"
   }
  ],
  "journals": [
