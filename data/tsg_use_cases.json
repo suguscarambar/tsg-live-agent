@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-17",
+ "as_of": "2026-11-18",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -2347,6 +2347,145 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-17"
+  },
+  {
+   "id": 100,
+   "title": "USDY Fund – launches on Sei Network as Ondo Finance Expands Tokenized Treasury Products",
+   "org": "USDY Fund",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches on Sei Network as Ondo Finance Expands Tokenized Treasury Products – via CoinMarketCap",
+   "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjM3cEc1NVA2aXdLZWNJUUNiaWV2ZVBVVmZXbVRqZGxtQndGX24xTmQ1bkVfVlRpT0U3VWlXenBlcmlnTmpwOFYxcXpxRjltMUZlbDhCaFk0YktsSXdsNnFyZGZQQnBGeUgya1RnM0ZYUF9YV21sZExPR1M3LV8xc0dGZ05CVGdZcHhZVS12bTNFVi1wT0tjSUFkUUFPZy1hamdFMFo4d0ZIRG1yMmsyeENXbHJTaFVTd2dzM3ZETDd4eFRqdHlPLWF2VFNCbEtYaDN5dU93?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-18"
+  },
+  {
+   "id": 101,
+   "title": "South Korea's KB Securities – completes Tokenized Bond Issuance and Redemption Pilot, Weighs Stablecoin Integration",
+   "org": "South Korea's KB Securities",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "Seoul",
+   "country": "KR",
+   "lat": 37.5665,
+   "lon": 126.978,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Completes Tokenized Bond Issuance and Redemption Pilot, Weighs Stablecoin Integration – via BigGo Finance",
+   "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZdEJNLWd0eTBPNUh5T1ZySHdKV0ZjblpOS1dORlQ0ZHloSV9TTjFxRko0aVB5QkRIUHU2MnpCSGtIdnRnQWdLSXo3N3RMekllRmxLTnZwSnYweUwtRC00bUNTQ2dMOXEtRkwycFJ2cGlFZ0tTT2c?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-18"
+  },
+  {
+   "id": 102,
+   "title": "UK – launch Tokenized Government Bond Pilot in Q1 2027",
+   "org": "UK",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch Tokenized Government Bond Pilot in Q1 2027 – via KuCoin",
+   "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2VfeUVOV1QyNzNkT3JFdVE5S2lCRFRVQVpFandTczJVNzU2YjRLMERtVi1tRjVlVmFMQURUX0pHMFJzSWtxamxnOGNCWVhrX3dIc1pvNWUzeHdnMkJnUkpNTlhSYzNPOC0wRzFJcVdwdUdXNnowcTVPVEVuTUdjT256c0ptTllFRUI1OTZZQlNIMEE?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-18"
+  },
+  {
+   "id": 103,
+   "title": "Nigerian Stablecoin Startup, Clea – launches Africa-China Payment Route",
+   "org": "Nigerian Stablecoin Startup / Clea",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Shanghai",
+   "country": "CN",
+   "lat": 39.9042,
+   "lon": 116.4074,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches Africa-China Payment Route – via BitKE",
+   "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vNkJMYUtSdmYtYVpZS2RUTkZtdTVwOE1vTHI1eWEtclRsTGFNSVZkekZxaEhWbUtnYzh5aXduLTJpNGR0RVZQTFBvX0x0bWhwUWpEUFljaXEwVkp4UDRTaDZ6elRwZnNIMktxMlVFUF9tM2xUNFZmZWlqVUkxUQ?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-18"
+  },
+  {
+   "id": 104,
+   "title": "Microsoft – rolls out agentic AI tools, Copilot Workspaces at Ignite conference; here's how to use them on Mac",
+   "org": "Microsoft",
+   "inst": null,
+   "tech": [
+    "Agentic"
+   ],
+   "sector": "Cross-industry",
+   "status": "Pilot",
+   "city": "Redmond",
+   "country": "US",
+   "lat": 47.674,
+   "lon": -122.1215,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Rolls out agentic AI tools, Copilot Workspaces at Ignite conference; here's how to use them on Mac – via Newspoint on MSN",
+   "source": "https://www.msn.com/en-in/news/other/microsoft-rolls-out-agentic-ai-tools-copilot-workspaces-at-ignite-conference-heres-how-to-use-them-on-mac/ar-AA2hGrwG",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-18"
+  },
+  {
+   "id": 105,
+   "title": "Google – expands Gemini’s Agentic Powers and Lengthens Chat Retention as AI Reshapes Security Concerns",
+   "org": "Google",
+   "inst": null,
+   "tech": [
+    "Agentic"
+   ],
+   "sector": "Finance",
+   "status": "Announced",
+   "city": "Mountain View",
+   "country": "US",
+   "lat": 37.422,
+   "lon": -122.0841,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expands Gemini’s Agentic Powers and Lengthens Chat Retention as AI Reshapes Security Concerns – via theaiinsider",
+   "source": "https://theaiinsider.tech/2026/11/18/google-expands-geminis-agentic-powers-and-lengthens-chat-retention-as-ai-reshapes-security-concerns/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-18"
   }
  ],
  "journals": [
