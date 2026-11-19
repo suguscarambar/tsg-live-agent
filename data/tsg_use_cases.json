@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-18",
+ "as_of": "2026-11-19",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -2486,6 +2486,146 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-18"
+  },
+  {
+   "id": 106,
+   "title": "HSBC – launches Ethereum-based tokenized fund using its RedCoin stablecoin",
+   "org": "HSBC",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches Ethereum-based tokenized fund using its RedCoin stablecoin – via Crypto News",
+   "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1SGloek5nRTd5UTY0MTFodjBTVEN6SmxOYy11Z3drMlVLbV9ueXJvbGdtZE84ZFBNRXRWcDBxLTcyaUNlZjllUFd5SkJBZTZCZXUxSnRrLWZBbjNvQldiOGVjUHhHclA0SmJqVXFPN3BfN3Q1R3dQN3Y2ckQ?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-19"
+  },
+  {
+   "id": 107,
+   "title": "CZ announces tokenized Anthropic stock – launch on BNB Chain via Ondo, xStocks, bStocks",
+   "org": "CZ announces tokenized Anthropic stock",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch on BNB Chain via Ondo, xStocks, bStocks – via Crypto News",
+   "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uMXlRRHlnVlNlNm02ejlCZklSQ0dGNnZTcjdDQk9lRFAyZW5fSVlKTkN2bEJUWFlHam9ENGdRWXNIZnhJQ1pnbnBfUDVhd09TNWRNNkZQSm5kNUhOWVBUMDZrMHVDSEVNakNfcTNkeDVscmM3?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-19"
+  },
+  {
+   "id": 108,
+   "title": "Invesco – debuts Tokenized Treasury Fund Built for Stablecoin Reserve Rules (NYSE: IVZ)",
+   "org": "Invesco",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7069,
+   "lon": -74.0113,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Debuts Tokenized Treasury Fund Built for Stablecoin Reserve Rules (NYSE: IVZ) – via finance.biggo.com",
+   "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HbDdSZWpXZkpMbmRnaWZ2Y2tud2RvVVZsN1pHX0NHTjQxU0liSnQ3QkcxbzJHamNuaWdwQkRqNWxIX0JDVjBtV2FGcDBXbHdqdndyWWZIWENCd3pjRl9kTFd2UFhWeFFxeDJ2MDFFUWZBVUdreHc?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-19"
+  },
+  {
+   "id": 109,
+   "title": "Ripple – partners With Kyobo Life to Pilot Bond Settlement on Blockchain",
+   "org": "Ripple",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Partners With Kyobo Life to Pilot Bond Settlement on Blockchain – via CoinMarketCap",
+   "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnB4SWpwUDNsT2lnOTZHVFQ0WDUzMVBZYVk0emdwZTBnRXNqY3NLUTV4aHc3WnZBd3drV2Q1WWxROXZBOWUweW1FWG45QXg4Q3FCQ1ZIRG0xbDVJU25TU1hQa3YyYWRFSFp6WkVqMVlQRmlKSTNoZ1BHS3F2MnZySUJyQTI5QVNqMmRFUF9vX0NtSlFDbDlDZ243M3F3U1JuNzd2NklqRzBTcmRGdlp3cmtR?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-19"
+  },
+  {
+   "id": 110,
+   "title": "HSBC – introduces Tokenized Share Class of $2.4 Billion Hong Kong Money Market Fund",
+   "org": "HSBC",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Announced",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Introduces Tokenized Share Class of $2.4 Billion Hong Kong Money Market Fund – via FinanceFeeds",
+   "source": "https://financefeeds.com/hsbc-introduces-tokenized-share-class-of-2-4-billion-hong-kong-money-market-fund/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-19"
+  },
+  {
+   "id": 111,
+   "title": "India could become forward- – deployed engineering hub for global enterprise AI",
+   "org": "India could become forward-",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 28.6139,
+   "lon": 77.209,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Deployed engineering hub for global enterprise AI – via Hindustan Times on MSN",
+   "source": "https://www.msn.com/en-in/money/general/india-could-become-forward-deployed-engineering-hub-for-global-enterprise-ai/ar-AA2hL8XI",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-19"
   }
  ],
  "journals": [
