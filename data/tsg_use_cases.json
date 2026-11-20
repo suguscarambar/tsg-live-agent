@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-19",
+ "as_of": "2026-11-20",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -2626,6 +2626,145 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-19"
+  },
+  {
+   "id": 112,
+   "title": "OCBC – launches GOLDX Tokenized Gold Fund on ETH and SOL",
+   "org": "OCBC",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Singapore",
+   "country": "SG",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches GOLDX Tokenized Gold Fund on ETH and SOL – via CoinMarketCap",
+   "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGI1SWZYT1JoWmFrQkFiQXRGc0M4NTRCX0VuY3Vhb2FrU2Z6bGJ4Qzk5cHpmT2dvS0h1Znlla3JGckthdmlRdzJaTmxRMFZtanRJQl81N2FDaW9qWEFldWVyOHBfNEhUalk0WlZaNEp0R09Yd0NQMzhxQm00QzJ6VXRxVXNJeUNaNWI4bUp2QXlsSUZjVjJROU5XTTE?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-20"
+  },
+  {
+   "id": 113,
+   "title": "Singapore – issues S$100M Tokenized MAS Bills, Testing Wholesale CBDC Settlement at Scale",
+   "org": "Singapore",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "Singapore",
+   "country": "SG",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Issues S$100M Tokenized MAS Bills, Testing Wholesale CBDC Settlement at Scale – via CryptoNinjas",
+   "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXNlUXF2ckRFclpQa2F3SVFNVVFEbThYWFlIWFVBelZDbExQZ0UyNGs0TGlyMWxOX3ZHTmhQelhMNmZaWlZVMDZVMWZiZHpHdmNNblp5aW5Kd1FPVlh3QmtFNXhpTW53RlEtYnRxM2ZoSHZvbGstdUc0UUU2Y2plX3h5VDZEakwyclBCSzNNV04xQlgwZ0ZLUTdvZGdpZGtyUTNIUElaM19lQ3d0X2NnVnV3VXdfbDBKeG95Z9IBwgFBVV95cUxNMmRRS2RCVzFTeHpUUDJpQW9VZ1J4bl9Kc29vTlN3SUFEeG1vX2lRSHNGaHhqYUpPMHFjYi1QZElYSF9sYThFbmdCc2pqUV9DSDU5Y3A0MV9tVEF4OVZnWFVGOVFFRFF1WGlpSWJMYzVRWDMzWlk2SzB6NnJwb3pkUjlwWHM0WGpZdGxCVW9jUG8wbjdSU0dCMHdseFZlV013TzEtVkNzZzNMSnNaQ0JDTWxPWUVkUjRrbWxDaVlOdEZxdw?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-20"
+  },
+  {
+   "id": 114,
+   "title": "Ant Group – completed a pilot for tokenized settlement with DBS Bank and Franklin Templeton",
+   "org": "Ant Group",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "Hangzhou",
+   "country": "CN",
+   "lat": 30.2741,
+   "lon": 120.1551,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Completed a pilot for tokenized settlement with DBS Bank and Franklin Templeton – via chaincatcher",
+   "source": "https://www.chaincatcher.com/en/article/2306404",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-20"
+  },
+  {
+   "id": 115,
+   "title": "Chainlink, UBS – pilot Onchain Structured Note Servicing",
+   "org": "Chainlink / UBS",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Cross-industry",
+   "status": "Pilot",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Pilot Onchain Structured Note Servicing – via cryptonews",
+   "source": "https://cryptonews.net/news/blockchain/33778808/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-20"
+  },
+  {
+   "id": 116,
+   "title": "Plasma and ruya Partner – launch Integrated AED Banking and Stablecoin Services in UAE",
+   "org": "Plasma and ruya Partner",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Abu Dhabi",
+   "country": "AE",
+   "lat": 24.4539,
+   "lon": 54.3773,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch Integrated AED Banking and Stablecoin Services in UAE – via FF News",
+   "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFpFRVNnUDVYeFlXazZrY1lDZEtsQjA2cnNOTUNubk1NaFNDbzdXVkNheG5YbExWb3E2RWFLTnUxVmYwb3Bja1lFS0JPQTRKS2tuTUVxaklUbW5jTmVnV1VSNE0tRWpETGVIUjBTTnBlMWx6a1YxS0dHSjFQQjdTQ18yT05zc3R3RU9udEszVDZHWVFhcFZEX3lMSnlmQnZ1R204RW9BY1dnb0l4WVhRLQ?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-20"
+  },
+  {
+   "id": 117,
+   "title": "NVIDIA, Microsoft – expand Azure-to-PC AI infrastructure and enterprise model tools",
+   "org": "NVIDIA / Microsoft",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "Redmond",
+   "country": "US",
+   "lat": 47.674,
+   "lon": -122.1215,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expand Azure-to-PC AI infrastructure and enterprise model tools – via tradersunion",
+   "source": "https://tradersunion.com/news/companies/show/4328315-nvidia-microsoft-azure-pc-ai-tools/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-20"
   }
  ],
  "journals": [
