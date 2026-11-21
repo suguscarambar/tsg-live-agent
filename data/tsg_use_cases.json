@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-20",
+ "as_of": "2026-11-21",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -2765,6 +2765,146 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-20"
+  },
+  {
+   "id": 118,
+   "title": "Malaysia’s largest bank, Maybank – pilots tokenized government bond settlement",
+   "org": "Malaysia’s largest bank / Maybank",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "",
+   "country": "MY",
+   "lat": 3.139,
+   "lon": 101.6869,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Pilots tokenized government bond settlement – via Ledger Insights",
+   "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalhBMjFNNnkwdlp3SXc1dDFIUDJ2TWpPZU8tY0JIMWViUVZjRklkckZ6LVR3LTdWQXg4RnI0WGdPa3AwaEtIR1I0VEpmMmVRUkJER0twSzlhMmY3aW5NUTNsNlFGZ1pKcmhRVEdURERSLXE4MUptcC14QlFPMzViZ1hobmpGZFA1OUtsTVdYYmlZYTRJenVzSGNMNzZKRzdGQ0Fncmh1WHdrZw?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-21"
+  },
+  {
+   "id": 119,
+   "title": "UBS – taps Chainlink to Automate Tokenized Notes on Ethereum",
+   "org": "UBS",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Announced",
+   "city": "Zurich",
+   "country": "CH",
+   "lat": 47.3769,
+   "lon": 8.5417,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Taps Chainlink to Automate Tokenized Notes on Ethereum – via CryptoRank",
+   "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzlTaC04a1ZXR3Bscjk2M1I3a1lib2MzLUhJRXBGT091dWQxNmREblhQcXlzV0QtOW5tdkhPTUpucUo3THhwald3VGdIR2xxcXJpQmJ1UkRBZlBNcnFSWTMzamNYZEVHNTZXNUtCM25ZYXhnNkRMTWFFakd5QVJqTXFmRXE0XzFjdFFPSGVBUFc?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-21"
+  },
+  {
+   "id": 120,
+   "title": "SWIAT – pilots connect tokenized collateral to custody",
+   "org": "SWIAT",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Pilots connect tokenized collateral to custody – via Ad Hoc News",
+   "source": "https://www.ad-hoc-news.de/boerse/news/corporate-news/bny-mellon-stock-swiat-pilots-connect-tokenized-collateral-to-custody/70541833",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-21"
+  },
+  {
+   "id": 121,
+   "title": "Stablecoin Payments – go Live: What Visa’s Move Means for Your Business",
+   "org": "Stablecoin Payments",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.5585,
+   "lon": -122.2711,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Go Live: What Visa’s Move Means for Your Business – via OneSafe",
+   "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzBoaTZ4X1JWWk5mbkZhY1l6SUdhMW9WZEJHWEdkUHM4blY4QkN4c0htSEpCMnZ6QWF5cmRueXBqMFc3c2RmYnc2LVo2OGtVbGpQTWREZzZxdjNZRDNYMHJGMFJPZTVKVW5CbUd5OXhwY3U0LWNuYXl5M0hIRGxtQ3hYM2FpR3pXZm1icGhvcU56WncyWUlZcGpoaw?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-21"
+  },
+  {
+   "id": 122,
+   "title": "DBS – expands Stablecoin and Tokenized Deposit Services for Corporate Clients",
+   "org": "DBS",
+   "inst": null,
+   "tech": [
+    "RWA",
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Announced",
+   "city": "Singapore",
+   "country": "SG",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expands Stablecoin and Tokenized Deposit Services for Corporate Clients – via kucoin",
+   "source": "https://www.kucoin.com/news/flash/dbs-expands-stablecoin-and-tokenized-deposit-services-for-corporate-clients",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-21"
+  },
+  {
+   "id": 123,
+   "title": "Huawei – introduces Fintelligent AI Solution at Singapore FinTech Festival 2026 to Accelerate Banking Transformation",
+   "org": "Huawei",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Finance",
+   "status": "Announced",
+   "city": "Shenzhen",
+   "country": "CN",
+   "lat": 22.5431,
+   "lon": 114.0579,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Introduces Fintelligent AI Solution at Singapore FinTech Festival 2026 to Accelerate Banking Transformation – via wilayah.com.my",
+   "source": "https://wilayah.com.my/huawei-introduces-fintelligent-ai-solution-at-singapore-fintech-festival-2026-to-accelerate-banking-transformation/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-21"
   }
  ],
  "journals": [
