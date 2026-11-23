@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-22",
+ "as_of": "2026-11-23",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -2905,6 +2905,144 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-21"
+  },
+  {
+   "id": 124,
+   "title": "BlackRock – launches Hong Kong Dollar Digital Liquidity Fund, Flags Smart Contract and Private-Key Risks",
+   "org": "BlackRock",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches Hong Kong Dollar Digital Liquidity Fund, Flags Smart Contract and Private-Key Risks – via TradingView",
+   "source": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbjVIV0drTmt6WFktVU5DemxFTkkzak1MbmgwaTdQUjB3Y2I3UFlyZVlocmJfXzExcFN6ZjJfeU0wYjd2ZHFpTjRZSjZfVlRva2FieVFYckx1NE53c0x4cUhna0lSbmJ1b0NLOXpWZVJWMkxtek04VkVodG15WWs1S3M2ZWl0ODgxMmJpSl91aklVS2tCU3JFX3R4ckNTX2dxM05NdHJ5dklaLWFpSTl2V0lUN0ZFWWwyNnVsTHY1eDlyWjBxN0VoY2xIMjJJYVdnVTB2T2JZT09PT1hTbV8zVGdqTVNkWHpYMmVuMmtuOUZJS1RacDFv?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-23"
+  },
+  {
+   "id": 125,
+   "title": "HSBC RedCoin – expands into Wealth with Tokenised Fund Access",
+   "org": "HSBC RedCoin",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Announced",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expands into Wealth with Tokenised Fund Access – via Markets Media",
+   "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUd5ek1ZbjByWm5IMThSZUJoLTNlODE5Q0k5NmJYLVBuUHNqWHNUdlg0NFVLRklBeTNlaWNhZHRyUENSeFNwR0JQY2VtMWRBRC01VjhuWC1CQTFmQmdaNVhSZ1R1OGFqSHUzUW9fWkdQSG5ZUEhBREprSXFpY2V3NF9xbjd2UHZWc0stX1MxSEZyMEE?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-23"
+  },
+  {
+   "id": 126,
+   "title": "StraitsX OCBC Stablecoin – pilot Sends B2B Payments to Banks",
+   "org": "StraitsX OCBC Stablecoin",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "Singapore",
+   "country": "SG",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Pilot Sends B2B Payments to Banks – via CoinGabbar",
+   "source": "https://www.coingabbar.com/en/straitsx-ocbc-stablecoin-pilot-b2b-payments-bank-accounts",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-23"
+  },
+  {
+   "id": 127,
+   "title": "Audi and Cerence AI – launch Microsoft 365 Car Work Agent",
+   "org": "Audi and Cerence AI",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Mobility",
+   "status": "Production",
+   "city": "Redmond",
+   "country": "US",
+   "lat": 47.674,
+   "lon": -122.1215,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch Microsoft 365 Car Work Agent – via AI Magazine",
+   "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWVlydnpwRVItOV93SDdBaWFzUXdQUjh3Vy1qQUJTdm04MXgwWDhLWEdoMmg1aU9XOHp3UTNiWk9uLUpVU3d3M3B1TUxtb2QzOHJ6S0sxVlRKeWNVNDZDMDVoTzE0YWhKM3NDOFpNN1BtWE8zRDJmenhWVHp3dndJbDR3Q1hzYUk1X3lF?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-23"
+  },
+  {
+   "id": 128,
+   "title": "Visa – launches upgraded CLI agent wallet for US users to verify AI agents",
+   "org": "Visa",
+   "inst": null,
+   "tech": [
+    "Agentic"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.5585,
+   "lon": -122.2711,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches upgraded CLI agent wallet for US users to verify AI agents – via Crypto Briefing",
+   "source": "https://cryptobriefing.com/visa-cli-agent-wallet-ai-agents-ousd/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-23"
+  },
+  {
+   "id": 129,
+   "title": "LTN Compute – expand Chennai AI data center with Nvidia B300 GPUs",
+   "org": "LTN Compute",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "Santa Clara",
+   "country": "US",
+   "lat": 37.3541,
+   "lon": -121.9552,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expand Chennai AI data center with Nvidia B300 GPUs – via ET Telecom",
+   "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNandfTG41cHZreEN5dE1GUlpDYWgzUnZLLUt2UnljaTRiTExKcmJLRDcyNlgxQ1dEMHBkeEVsZFFwSUljMHdlbGVzWVZlaThYWGtvaHFOdDFqcXhuV3llaUh2V1ZDNktURE5CTVdHVWRFS25TRW5GSWU4b1BaWmdwUV95Y0s1SFFzVEJia0VzUnlEN1cyME5UWnJYTHhKQW1kZ0FsNVc5V3hGWDNNZjdLZlk3Qmx4NTJkY1dmc29GQXN4NmlMc2didm9aUWVjaThFLTdvZEl30gHWAUFVX3lxTE1qd19MbjVwdmt4Q3l0TUZSWkNhaDNSdkstS3ZSeWNpNGJMTEpyYktENzI2WDFDV0QwcGR4RWxkUXBJSWMwd2VsZXNZVmVpOFhYa29ocU50MWpxeG5XeWVpSHZXVkM2S1RETkJNV0dVZEVLblNFbkZJZThvUFpaZ3BRX3ljSzVIUXNUQmJrRXNSeUQ3VzIwTlRaclhMeEpBbWRnQWw1VzlXeEZYM01mN0tmWTdCbHg1MmRjV2Zzb0ZBc3g2aUxzZ2J2b1pRZWNpOEUtN29kSXc?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-23"
   }
  ],
  "journals": [
