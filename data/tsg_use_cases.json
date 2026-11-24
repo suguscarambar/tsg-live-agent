@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-23",
+ "as_of": "2026-11-24",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -3043,6 +3043,121 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-23"
+  },
+  {
+   "id": 130,
+   "title": "MAS Yuan Deal, OCBC Stablecoin Payment – pilot",
+   "org": "MAS Yuan Deal / OCBC Stablecoin Payment",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Pilot",
+   "city": "Singapore",
+   "country": "SG",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Pilot – via The Coin Republic",
+   "source": "https://www.thecoinrepublic.com/2026/11/23/crypto-news-singapores-mas-and-china-partner-to-strengthen-chinese-yuan-capabilities/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-24"
+  },
+  {
+   "id": 131,
+   "title": "DBS and Citi – complete First Weekend USD Transfer via Swift Blockchain",
+   "org": "DBS and Citi",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Complete First Weekend USD Transfer via Swift Blockchain – via CoinMarketCap",
+   "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQU9ncFRERVJMX29wZEdkeGlWMmh3WmtrUzEzVnViZ3pFTnVCd3pacHVXQXBaRUZ6TFhNcWN2eGFWb2ZaakxqcHBFVFBuRktNdkJtU1h4S0RVTmRZalZJQXQ0LWs0VkppRzJLaUVtX3FKVG15SWdKSldER3FpRzFXeGY1NUlmd0Vrd0l6YXN6anF3MTNNbU5LWV9PY083ZjZhOTB0Nm1EbXZNUFIxN1Y5YQ?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-24"
+  },
+  {
+   "id": 132,
+   "title": "Cisco, OpenAI – launch project to safeguard agentic AI",
+   "org": "Cisco / OpenAI",
+   "inst": null,
+   "tech": [
+    "Agentic"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch project to safeguard agentic AI – via The Wall Street Journal on MSN",
+   "source": "https://www.msn.com/en-us/news/other/cisco-openai-launch-project-to-safeguard-agentic-ai/ar-AA2i57sI",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-24"
+  },
+  {
+   "id": 133,
+   "title": "Meta – launches AI shopping agent Muse in UK with retail partners",
+   "org": "Meta",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Luxury & Retail",
+   "status": "Production",
+   "city": "Menlo Park",
+   "country": "US",
+   "lat": 37.4848,
+   "lon": -122.1484,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches AI shopping agent Muse in UK with retail partners – via Retail Systems",
+   "source": "https://www.retail-systems.com/rs/Meta_Launches_AI_Shopping_Agent_Muse_In_UK_With_Retail_Partners.php",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-24"
+  },
+  {
+   "id": 134,
+   "title": "ABB – launches ‘world’s first’ industrial motor with built-in AI",
+   "org": "ABB",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Manufacturing",
+   "status": "Pilot",
+   "city": "Zurich",
+   "country": "CH",
+   "lat": 47.3769,
+   "lon": 8.5417,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches ‘world’s first’ industrial motor with built-in AI – via Robotics & Automation News",
+   "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVlVZDZBa2VnbXdJUWN3eEQ2MkRZWFpiTzQyTHRDUzFIRG0zd19WQzVnbklLOWthRFI1S0M3RTExOEVzaXpSNTRPRm1qSVB3dGlHNXRwQTlDSkhkXzVRcFNfT3JSUkNsOVE0Q2hKb0Joa2gyUEJ4Z2dheXUyMTdFd0hpTE1nbnloOW1kWUxkM1JJRWlTOGxuM09vakVqZlBBakEyeUpycGVKN1BScGE5NnRhNHhLRjA?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-24"
   }
  ],
  "journals": [
