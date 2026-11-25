@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-24",
+ "as_of": "2026-11-25",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -3158,6 +3158,144 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-24"
+  },
+  {
+   "id": 135,
+   "title": "BlackRock – launches $100m HKD tokenized MMF with Ant Intl, StanChart as investors",
+   "org": "BlackRock",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches $100m HKD tokenized MMF with Ant Intl, StanChart as investors – via Ledger Insights",
+   "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjVKV19RVDJkMEtTRm1BQ2t4VEs0U3N0RGJlcWVfZUxURGhXMTBSVVV5Rzc3blVXVnlySG9ZU2ZJeUZscDE2dU5sbUJ1M1NoOUlJV2k4NWM1QW5mNm44R0FmcHJjNVIySjBxSlhjenVRVHFKdEVfUWg4TUxZS1MtOGxpODJNbllQM3c3ZUZPUm13R0RjNmo0NlI1TzJNWGpYRkVoU2ZtNFJXcDQzV1pj?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-25"
+  },
+  {
+   "id": 136,
+   "title": "HKMA – launches CMU Platform for Tokenized Bond Settlement",
+   "org": "HKMA",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Hong Kong",
+   "country": "HK",
+   "lat": 22.3193,
+   "lon": 114.1694,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches CMU Platform for Tokenized Bond Settlement – via The Defiant",
+   "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTZITF9hQW14bTQ4ZF93WXAwVnczcVQtUWI4V3BudHcyaUxRVzR6enhMY2UtNEp4dnNBM0xfV3UtSk51Q19IRWtoWkRyb2pTT0ZCRkNCQkNzUWZZMktLR0FvZTdmdGlrT3N6UE5jSjFXRkticDBmUkdDMXNnT1RIMGVKRGgwLUlSUzBQbnVtRkhuZFdxdGt5TXV2VlotQXNBRm9naEJpTzdjdw?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-25"
+  },
+  {
+   "id": 137,
+   "title": "Japan’s SBI and SMFG – launch Solana-based financial venture backed by firms with $2.3T in assets",
+   "org": "Japan’s SBI and SMFG",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "Tokyo",
+   "country": "JP",
+   "lat": 35.6762,
+   "lon": 139.6503,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch Solana-based financial venture backed by firms with $2.3T in assets – via Crypto News",
+   "source": "https://crypto.news/sbi-solana-global-launch-japan-onchain-finance/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-25"
+  },
+  {
+   "id": 138,
+   "title": "Visa – expands Tokenized Contactless Payments Through Bank Apps in Egypt",
+   "org": "Visa",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Announced",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.5585,
+   "lon": -122.2711,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expands Tokenized Contactless Payments Through Bank Apps in Egypt – via TechAfrica News",
+   "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODhLQ2pRTkc3c2w2S0ZXamdLeHJOZG5oRXBUaTF0dEZ6ZUpWTXdkNmhJZXNLRncyQWllNDYtQ1FidGNXTWpObDdtdVI5WDYyd3g0bk9KWFMxd2tqa1dHRWQ5MGVib3BtdlV6Sk9YV1oyOGhISjRwNjVSMjVyYWhBSEpFLUhuTTBVaHFFaDdDSktzdXFVQnBraXExQXQ3YXM?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-25"
+  },
+  {
+   "id": 139,
+   "title": "Advantech Pursues Scaled Industrial AI Opportunity – unveils Three-Pronged Strategy at Germany's SPS Show",
+   "org": "Advantech Pursues Scaled Industrial AI Opportunity",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Manufacturing",
+   "status": "Pilot",
+   "city": "Berlin",
+   "country": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Unveils Three-Pronged Strategy at Germany's SPS Show – via BigGo Finance",
+   "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjNUJzc3I0RWY2WllPQ3ZxLXdkSkFMd29nMm9vRzFQUF9TM3U4QmZCNWFvNUZyeEw1U1BDcUVEYkVReVVkUHVBMHAtSFlwRVQxcUhidUFNc3ZTYVJVSzUtWUpTU2RZeG9fVjdtZWVHZW5vajZ4S1E?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-25"
+  },
+  {
+   "id": 140,
+   "title": "Couchbase – partners with AWS to Expand Delivery of AI Data Plane for Production AI Agents",
+   "org": "Couchbase",
+   "inst": null,
+   "tech": [
+    "Agentic"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "Seattle",
+   "country": "US",
+   "lat": 47.6062,
+   "lon": -122.3321,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Partners with AWS to Expand Delivery of AI Data Plane for Production AI Agents – via HPCwire",
+   "source": "https://www.hpcwire.com/bigdatawire/this-just-in/couchbase-partners-with-aws-to-expand-delivery-of-ai-data-plane-for-production-ai-agents/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-25"
   }
  ],
  "journals": [
