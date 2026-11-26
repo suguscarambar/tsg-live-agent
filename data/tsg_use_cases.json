@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-25",
+ "as_of": "2026-11-26",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -3296,6 +3296,98 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-25"
+  },
+  {
+   "id": 141,
+   "title": "Hong Kong Authorities – launch Blockchain Platform for Bonds",
+   "org": "Hong Kong Authorities",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Hong Kong",
+   "country": "HK",
+   "lat": 22.3193,
+   "lon": 114.1694,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch Blockchain Platform for Bonds – via ForkLog",
+   "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYm9GaXV2UWpUcENtNnBzWXR3RjNIQlA0ZTl4RTJRdW1yYndzRHJrUk1wYkZCSmk1YXhIb1h3Q0M3UlFCTzNTM2ZOSGswbWlVT0dkLU9LSlEzZGI5eElRUkJKUFFualdicTJQODdCMGFOWDBtaDZnOFJPeEExRUlON3FkaEI0d1BIbVE?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-26"
+  },
+  {
+   "id": 142,
+   "title": "Swift's Shared Ledger – goes Live With 17 Banks as Chainlink, IBM and Others Wire In",
+   "org": "Swift's Shared Ledger",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Goes Live With 17 Banks as Chainlink, IBM and Others Wire In – via BigGo Finance",
+   "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sNXhsMmdjbVFUUmNUTW1CRk43MkNCYTk0YXNSQklldnBsR0RsSHFFN1lnTGxjdHB2ZGZBMlVob3NSNi0xVFhYa1ZCdWVZQWoyYk1nNlZsekpiLTZKU2JZZ3dQZ3RhSnhWaHIzeVFnVjFZY0lPZ0E?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-26"
+  },
+  {
+   "id": 143,
+   "title": "Endava Becomes Anthropic – select Partner to Accelerate AI-Native Engineering and Business AI Value",
+   "org": "Endava Becomes Anthropic",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Select Partner to Accelerate AI-Native Engineering and Business AI Value – via Quantisnow",
+   "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWlRxUXJaWGlibDlXZmdwa3RGNS1IX2VTTVk1TEc0a2pXRGFjck4xbmtNa0lpZkZ5Q2R4T1RFOEt3S3JhbE9jTk81V1dDZDMtZThJanNFTThOT0xfcWdfWGhCd3NUN3VfZk9hU1hIWmpSUFc2clVrVGNHX3dHbmZUSUVsM0Qzd0VRTlRqQl9BT3RhT1JUcGstX2RJNnhMaEdndjZxTXF1djRyOEtVV0d1N1FvZW9MMUlCSjRqUjBLaw?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-26"
+  },
+  {
+   "id": 144,
+   "title": "Anthropic – unveils Claude Ship: An AI agent suite to automate code review and pull request approvals",
+   "org": "Anthropic",
+   "inst": null,
+   "tech": [
+    "Agentic"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Unveils Claude Ship: An AI agent suite to automate code review and pull request approvals – via NexFuture on MSN",
+   "source": "https://www.msn.com/en-xl/news/other/anthropic-unveils-claude-ship-an-ai-agent-suite-to-automate-code-review-and-pull-request-approvals/ar-AA2icVei",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-26"
   }
  ],
  "journals": [
