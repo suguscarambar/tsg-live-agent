@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-26",
+ "as_of": "2026-11-27",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -3388,6 +3388,121 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-26"
+  },
+  {
+   "id": 145,
+   "title": "Hong Kong’s digital bonds can – settle after hours on one route",
+   "org": "Hong Kong’s digital bonds can",
+   "inst": null,
+   "tech": [
+    "RWA"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Hong Kong",
+   "country": "HK",
+   "lat": 22.3193,
+   "lon": 114.1694,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Settle after hours on one route – via Crypto News",
+   "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWp6eUluVkZmLURpcGVUeXNWSVZPYlNaZlp0T3p2Y09ncUxPcUQ1MUJqSkdDaFdHeTczZWRkWlZCakRVSFp0Y3pic1ItRVlabmF5SkJpNFdmRC04cG1wQ2k0ZXQ3QVU0ZWs3YlNSc19iZ1JRYzZZV2d2S1Q5ZlIwODF4RTR1U3Fo?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-27"
+  },
+  {
+   "id": 146,
+   "title": "Brazil’s stock exchange – teams up with major banks to launch real-pegged stablecoin",
+   "org": "Brazil’s stock exchange",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Sao Paulo",
+   "country": "BR",
+   "lat": -23.5505,
+   "lon": -46.6333,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Teams up with major banks to launch real-pegged stablecoin – via CoinDesk",
+   "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVZQWEJzaDhjSmRPQXp6MUVMME1yWE0wQmVHdHkxeEU4TFhKWE1LM1JlRDlNV0RqYTdlWGwxU1RRZ1FHeGZ1eTdRZHEzNENmWHk5Y3o1N1lzNVlNVnNXR0NIcF9ETXEyWHdJN3JMQ3ZjakpUakVrWjcyQkZ3c3lkT2diTmFHV29QVXA1Vk4temFYandob2h0Q0sydGVhWFk5Qm9Ka0NOMzZndG0zbmxzUDB4OEh6N210OVNOblBMWGY0YUstLXc?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-27"
+  },
+  {
+   "id": 147,
+   "title": "ClickHouse – expands AWS Strategic Collaboration with a $1.5B-Plus Agreement to Scale Its Unified Enterprise AI Data…",
+   "org": "ClickHouse",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "Seattle",
+   "country": "US",
+   "lat": 47.6062,
+   "lon": -122.3321,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expands AWS Strategic Collaboration with a $1.5B-Plus Agreement to Scale Its Unified Enterprise AI Data Stack – via theaiinsider",
+   "source": "https://theaiinsider.tech/2026/11/27/clickhouse-expands-aws-strategic-collaboration-with-a-1-5b-plus-agreement-to-scale-its-unified-enterprise-ai-data-stack/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-27"
+  },
+  {
+   "id": 148,
+   "title": "Alibaba Cloud – expands AI Ties with Three Indonesian Firms",
+   "org": "Alibaba Cloud",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "Hangzhou",
+   "country": "CN",
+   "lat": 30.2741,
+   "lon": 120.1551,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Expands AI Ties with Three Indonesian Firms – via Tempo.co English",
+   "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMGFWQ0FCRHdXS0dxMmdtZjBmbmg2T2ZzeDhyNmt3S0FYTGJfVkswdUxTNkh5QnZMMkdoczRRMzEzeUNKdGtiTERZRFk3Skg3V01sczBxNWtackNsZWZkV2FDN3VpLUxIZlk4cFM3WkFwUGdKTGlKZEM0ay1NVTdSSUhGZ2RXTjRkVFFZOHdraVFpeWR3?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-27"
+  },
+  {
+   "id": 149,
+   "title": "Schneider Electric & AWS – launch factory AI platform",
+   "org": "Schneider Electric & AWS",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Manufacturing",
+   "status": "Production",
+   "city": "Seattle",
+   "country": "US",
+   "lat": 47.6062,
+   "lon": -122.3321,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch factory AI platform – via IT Brief Asia",
+   "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLWkyTEphdDNIdEp4ZE12ZWVFcWRRSEVTalo2bktnSjJqT0ZqOG5aNl80VkgzbWU2VVpVbjFFSjlKV2RmNURRWDZUWjNQQUttNDNUTkNrSE5HS0JaTXRwRlhyX2QzVFU4SzlaZ1VUOUFVYTN6RDQwek9aZ1VJbklJOS1B?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-27"
   }
  ],
  "journals": [
