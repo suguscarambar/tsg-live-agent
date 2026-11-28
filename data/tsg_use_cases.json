@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-27",
+ "as_of": "2026-11-28",
  "fx_note": "USD estimates use EUR 1.08, GBP 1.27, CHF 1.13, HKD 0.128, SGD 0.74",
  "cases": [
   {
@@ -3503,6 +3503,121 @@
    "pdf": null,
    "added_by": "daily-agent",
    "added_on": "2026-11-27"
+  },
+  {
+   "id": 150,
+   "title": "Brazilian Exchange Delays Stablecoin – launch to Q1 2027",
+   "org": "Brazilian Exchange Delays Stablecoin",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "Sao Paulo",
+   "country": "BR",
+   "lat": -23.5505,
+   "lon": -46.6333,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch to Q1 2027 – via kucoin",
+   "source": "https://www.kucoin.com/news/flash/brazilian-exchange-delays-stablecoin-launch-to-q1-2027",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-28"
+  },
+  {
+   "id": 151,
+   "title": "Solana – launches Enterprise Platform With Mastercard, Worldpay, Western Union",
+   "org": "Solana",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Cross-industry",
+   "status": "Production",
+   "city": "Purchase, NY",
+   "country": "US",
+   "lat": 41.0339,
+   "lon": -73.7629,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launches Enterprise Platform With Mastercard, Worldpay, Western Union – via CoinMarketCap",
+   "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVzQzRVhxa2FyeXBWM21CUkc0Zm1FUmg0VXN2QlAtZ3lUOU0tQnRzVHJzU2FtWWFVNU9nZWxRWHJZMjdjcWZWZmM0ajNzcmg4VjZZd1UwdUJMUU00a1lLV1Z4V2s2clF0ZlgxTHNkUDdxTUFrWmxONjRQOUxJOTdvbTJVLTh4N3R4QVc0M0lrZ1FwOFB2blhkdS15M0IxcE5aaFo4ZzJTTHAtNk5UTzRFU2ctUmRqT0E?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-28"
+  },
+  {
+   "id": 152,
+   "title": "Visa and NBX – launch Stablecoin-Linked Flex Card for Seamless Everyday Spending",
+   "org": "Visa and NBX",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Finance",
+   "status": "Production",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.5585,
+   "lon": -122.2711,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Launch Stablecoin-Linked Flex Card for Seamless Everyday Spending – via FF News",
+   "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPenFpRG12Wmk4dVY4VHcxRU1OZjJmNEFUOFpZMHZ3SExaaExkZGRWLVczcW1uZHZXT1h6S2hidzBWTjcyR184T1g2UTNPSm1iTXlsV2NfVDVxMnhoMFRmajVyS000emd4OTdDeDM1Sk45eFdxZmh0ZjRpM1JfRzJYZGJYQk5RODZFYlREcXI3QWs2TGNMMUlFNmNiVG9CZElpZmcw?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-28"
+  },
+  {
+   "id": 153,
+   "title": "Dextra Labs Named an OpenAI – select Partner to Advance Enterprise Generative AI Development",
+   "org": "Dextra Labs Named an OpenAI",
+   "inst": null,
+   "tech": [
+    "AI"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Select Partner to Advance Enterprise Generative AI Development – via USA TODAY",
+   "source": "https://www.usatoday.com/press-release/story/61043/dextra-labs-named-an-openai-select-partner-to-advance-enterprise-generative-ai-development/",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-28"
+  },
+  {
+   "id": 154,
+   "title": "MeitY – unveils Blockchain India Challenge to boost secure, transparent governance",
+   "org": "MeitY",
+   "inst": null,
+   "tech": [
+    "Blockchain"
+   ],
+   "sector": "Cross-industry",
+   "status": "Announced",
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 28.6139,
+   "lon": 77.209,
+   "date": "2026-11",
+   "year": 2026,
+   "amount": null,
+   "kpi": "Unveils Blockchain India Challenge to boost secure, transparent governance – via DD News",
+   "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVB0aHE3SGRWa2RSaWJaT1BFcmRMVGliaWt5bnhxLTlER1pzM3VBamhZX3RGb3RjM3JzRjh1cVIxcDhCaF9hX3BDWWd4bXpmVTNucWJONC1TdUU2X2tjZjdHa0VoOERUVFE5c3djWExUb1kwWFlsVFdfQTZScjZsMHdMZzZadXJQUE5HZUtpdDVFY2xwcVVTZGF1VnE1VXpuSERRTTFGRWM?oc=5",
+   "pdf": null,
+   "added_by": "daily-agent",
+   "added_on": "2026-11-28"
   }
  ],
  "journals": [
